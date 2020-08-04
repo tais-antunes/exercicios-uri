@@ -5,5 +5,5 @@
 # Linguagens
 Estão divididos em pastas as resoluções feitas de cada linguagem
 
-- c++
+- C++
 - SQL
